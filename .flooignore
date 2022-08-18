@@ -1,9 +1,0 @@
-# remember that: floobits does not understand wildcards
-# and it does understand the .gitignore file (but no wildcards in that either)
-
-extern
-node_modules
-tmp
-vendor
-.idea/workspace.xml
-.idea/misc.xml
